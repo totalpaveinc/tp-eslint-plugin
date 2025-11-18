@@ -30,15 +30,15 @@
   "license": "MIT",
   "homepage": "https://github.com/totalpave/tp-eslint-plugin",
   "dependencies": {
-    "@eslint/js": "9.32.0",
-    "@typescript-eslint/eslint-plugin": "8.39.0",
-    "@typescript-eslint/parser": "8.39.0",
+    "@eslint/js": "9.39.1",
+    "@typescript-eslint/eslint-plugin": "8.47.0",
+    "@typescript-eslint/parser": "8.47.0",
     "auto-changelog": "2.5.0",
-    "eslint": "9.32.0",
+    "eslint": "9.39.1",
     "eslint-plugin-promise": "7.2.1",
     "eslint-plugin-react": "7.37.5",
-    "globals": "16.3.0",
-    "typescript": "5.9.2",
+    "globals": "16.5.0",
+    "typescript": "5.9.3",
     "typescript-eslint": "8.39.0"
   }
 }
