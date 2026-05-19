@@ -100,7 +100,8 @@ export default [
             
             "react/no-deprecated": "warn",
 
-            "totalpave/no-date": "error"
+            "totalpave/no-date": "error",
+            "totalpave/no-js-imports": "warn"
         },
         settings: {
             react: {
