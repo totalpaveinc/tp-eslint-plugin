@@ -74,6 +74,13 @@ export default [
             // Will complain on self existence checked function calls, e.g: x && x();
             "no-unused-expressions": "off",
             "no-unused-vars": "off",
+            "@typescript-eslint/no-unused-vars": [
+                "warn",
+                {
+                    "args": "none",
+                    "caughtErrors": "none"
+                }
+            ],
 
             // https://github.com/typescript-eslint/typescript-eslint/blob/v1.12.0/packages/eslint-plugin/docs/rules/camelcase.md#options
             "camelcase": "off",
